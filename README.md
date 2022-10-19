@@ -1,2 +1,1 @@
-# miniportifolio
-My personal portfolio
+My Personal Portfolio
